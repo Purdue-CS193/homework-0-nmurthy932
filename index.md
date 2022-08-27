@@ -1,3 +1,9 @@
+# Nitin's First CS193 Homework
+- Not much homework
+- Not many classes
+- Seems more useful than CS191
+- I can already do a little git
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
